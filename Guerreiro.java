@@ -4,7 +4,7 @@ public class Guerreiro extends Humanoide implements Acao{
     
         energia = 115;
         nome = "Guerreiro";
-        atk = 9;
+        atk = 12;
         xp = 0;
 
     }

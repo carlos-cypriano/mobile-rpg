@@ -1,10 +1,12 @@
-public class Mago extends Humanoide implements Acao {
+public class Templario extends Humanoide implements Acao{
     
-    public Mago(){
-        energia = 80;
-        nome = "Mago";
-        atk = 15;
+    public Templario(){
+    
+        energia = 120;
+        nome = "Templario";
+        atk = 10;
         xp = 0;
+
     }
 
     public void atacar(Humanoide h){

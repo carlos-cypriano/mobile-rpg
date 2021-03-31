@@ -1,9 +1,9 @@
-public class Mago extends Humanoide implements Acao {
+public class Ladino extends Humanoide implements Acao {
     
-    public Mago(){
-        energia = 80;
-        nome = "Mago";
-        atk = 15;
+    public Ladino){
+        energia = 90;
+        nome = "Ladino";
+        atk = 9;
         xp = 0;
     }
 
