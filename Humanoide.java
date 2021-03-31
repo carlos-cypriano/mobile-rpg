@@ -3,7 +3,6 @@ public class Humanoide implements Acao{
     int energia;
     String nome;
     int atk;
-    int def;
     int xp;
 
     public Humanoide(){
