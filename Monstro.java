@@ -3,6 +3,7 @@ public class Monstro implements Acao{
     int energia;
     String nome;
     int atk;
+    int xp;
 
     public Monstro(){
 
