@@ -1,4 +1,4 @@
-public class Templario extends Humanoide implements Acao{
+public class Templario extends Humanoide {
     
     public Templario(){
     

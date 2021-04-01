@@ -1,4 +1,4 @@
-public class Guerreiro extends Humanoide implements Acao{
+public class Guerreiro extends Humanoide{
     
     public Guerreiro(){
     

@@ -1,8 +1,8 @@
-public class Enguia extends Monstro implements Acao {
+public class Engia extends Monstro {
     
-    public Enguia(){
+    public Engia(){
         energia = 120;
-        nome = "Enguia";
+        nome = "Engia";
         atk = 10;
         xp = 80;
     }

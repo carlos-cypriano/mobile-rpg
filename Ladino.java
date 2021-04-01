@@ -1,6 +1,6 @@
-public class Ladino extends Humanoide implements Acao {
+public class Ladino extends Humanoide {
     
-    public Ladino){
+    public Ladino(){
         energia = 90;
         nome = "Ladino";
         atk = 9;

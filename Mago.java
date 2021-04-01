@@ -1,4 +1,4 @@
-public class Mago extends Humanoide implements Acao {
+public class Mago extends Humanoide {
     
     public Mago(){
         energia = 80;

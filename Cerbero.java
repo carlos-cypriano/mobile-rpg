@@ -1,4 +1,4 @@
-public class Cerbero extends Monstro implements Acao {
+public class Cerbero extends Monstro {
     
     public Cerbero(){
         energia = 180;
